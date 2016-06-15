@@ -1,4 +1,3 @@
-require 'pry'
 class ChangeMaker
   # Returns an array of the least amount of coins required to get to 'amount'
   # **Assumption** Change can always be made - BONUS POINTS - raise an error if
